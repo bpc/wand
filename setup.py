@@ -36,7 +36,7 @@ setup(
     name='Wand',
     packages=['wand'],
     data_files=[('', ['README.rst'])],
-    version=VERSION,
+    version='0.4.1a1',
     description='Ctypes-based simple MagickWand API binding for Python',
     long_description=readme(),
     license='MIT License',
